@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm a junior front end developer, come and see my portfolio 👋
 
 <div align="center">
   <a href="https://github.com/REILOLx">
