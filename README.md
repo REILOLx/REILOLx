@@ -1,4 +1,4 @@
-### Hi, I'm a junior front end developer, come and see my portfolio 👋
+### Hi, I'm a junior front-end developer, come and see my repository👨‍💻
 
 <div align="center">
   <a href="https://github.com/REILOLx">
