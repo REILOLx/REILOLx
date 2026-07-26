@@ -1,27 +1,225 @@
-### Hi, I'm a junior front-end developer, come and see my repository👨‍💻
+<div align="center">
+
+# Olá, eu sou o Eduardo Reis 👋
+
+### Data Analyst • AI-Driven Developer • Empreendedor
+
+Transformo **dados, tecnologia e inteligência artificial** em soluções que melhoram processos, apoiam decisões e ajudam negócios a crescer.
+
+<br>
+
+<a href="https://github.com/REILOLx">
+  <img src="https://img.shields.io/github/followers/REILOLx?label=Seguidores&style=for-the-badge&logo=github" alt="Seguidores no GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/eduardo-reis-375a9821a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Reis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:eduardoreis-23@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail"/>
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou profissional de tecnologia com atuação em **análise de dados, desenvolvimento de dashboards, criação de indicadores e automação de processos**.
+
+Atualmente, trabalho como **Analista de Dados em uma instituição financeira**, desenvolvendo soluções que transformam informações em decisões mais rápidas, eficientes e estratégicas.
+
+Também curso **Engenharia Civil** e participo do desenvolvimento e crescimento da **Reis & Reis Construtora**, conectando minha experiência em tecnologia à gestão de negócios e à construção civil.
+
+Paralelamente, desenvolvo produtos digitais, sistemas e projetos de inteligência artificial por meio do **Alfa Tauri Innovation Group**.
+
+```text
+Dados + Automação + Inteligência Artificial + Negócios
+```
+
+---
+
+## 🚀 O que estou construindo
+
+### 💜 Alumia
+
+Plataforma de gestão inteligente para negócios de beleza, criada para centralizar:
+
+* Agenda e profissionais
+* Gestão de clientes
+* Marketing com inteligência artificial
+* Fidelização e campanhas
+* Indicadores financeiros
+* Automação de processos
+* Estratégias para crescimento do negócio
+
+A proposta da Alumia é ir além de uma agenda tradicional, utilizando tecnologia e inteligência artificial para ajudar pequenos negócios a se organizarem e crescerem.
+
+### 🏢 Alfa Tauri Innovation Group
+
+Grupo voltado à criação e ao desenvolvimento de negócios, produtos digitais e soluções inovadoras.
+
+Entre os projetos do grupo estão:
+
+* **Alumia** — tecnologia para gestão e crescimento de negócios de beleza
+* **Reis & Reis Construtora** — construção civil e execução de obras
+* Sistemas internos de gestão
+* Automações empresariais
+* Produtos SaaS
+* Soluções orientadas por dados e inteligência artificial
+
+### 🏗️ Reis & Reis Construtora
+
+Participo da evolução tecnológica e estratégica da empresa, criando soluções para:
+
+* Gestão de colaboradores
+* Controle de pagamentos
+* Acompanhamento de custos
+* Indicadores financeiros
+* Controle de faltas e presenças
+* Automação de processos administrativos
+* Digitalização da operação
+
+---
+
+## 🧠 Áreas de interesse
+
+* Inteligência artificial aplicada a negócios
+* Desenvolvimento de produtos SaaS
+* Análise e engenharia de dados
+* Automação de processos
+* Desenvolvimento full stack
+* Empreendedorismo e inovação
+* Estratégia empresarial
+* Construção civil e tecnologia
+* Experiência do usuário
+* Sistemas escaláveis
+
+---
+
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
-  <a href="https://github.com/REILOLx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=REILOLx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REILOLx&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="EDU-Js" height="30" width="40" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-  <img align="center" alt="EDU-HTML" height="30" width="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img align="center" alt="EDU-CSS" height="30" width="40" src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img align="center" alt="EDU-Python" height="30" width="40" src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+
+### Dados e automação
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
+
+### Desenvolvimento
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
+
+### Infraestrutura e produto
+
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+
+### Inteligência artificial
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
 
 </div>
-  
-  ##
- 
-<div>
-  <a href="https://www.youtube.com/c/BOYKILL3RTM" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000? style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/eduardo_reis23/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/reilol_games" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the- badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eduardoreis-23@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-reis-375a9821a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![ Animação de cobra ](https://github.com/REILOLx/REILOLx/blob/output/github-contribution-grid-snake.svg)
- 
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<a href="https://github.com/REILOLx">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=REILOLx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub"/>
+</a>
+
+<a href="https://github.com/REILOLx">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REILOLx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=REILOLx&theme=tokyonight&hide_border=true" alt="Sequência de contribuições"/>
+
+</div>
+
+---
+
+## 🎯 Atualmente
+
+```javascript
+const eduardo = {
+  profissão: "Analista de Dados",
+  formação: "Análise e Desenvolvimento de Sistemas",
+  foco: [
+    "Inteligência Artificial",
+    "Desenvolvimento Full Stack",
+    "Automação",
+    "Produtos SaaS",
+    "Empreendedorismo"
+  ],
+  projetos: [
+    "Alumia",
+    "Alfa Tauri Innovation Group",
+    "Reis & Reis Construtora"
+  ],
+  objetivo: "Transformar boas ideias em produtos úteis, escaláveis e rentáveis"
+};
+```
+
+---
+
+## 🤝 Vamos nos conectar
+
+Tenho interesse em projetos relacionados a:
+
+* Inteligência artificial
+* Dados e automação
+* Desenvolvimento de sistemas
+* Produtos SaaS
+* Startups e inovação
+* Parcerias de tecnologia
+* Soluções para pequenos negócios
+
+<div align="center">
+
+<a href="https://www.instagram.com/eduardo_reis23/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-eduardo__reis23-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://www.linkedin.com/in/eduardo-reis-375a9821a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Reis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:eduardoreis-23@hotmail.com">
+  <img src="https://img.shields.io/badge/Outlook-Enviar%20e--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### “Tecnologia não é apenas código. É a capacidade de transformar problemas em soluções.”
+
+<br>
+
+![Animação de contribuições](https://github.com/REILOLx/REILOLx/blob/output/github-contribution-grid-snake.svg)
+
 </div>
