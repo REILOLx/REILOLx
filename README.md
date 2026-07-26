@@ -26,13 +26,25 @@ Transformo **dados, tecnologia e inteligência artificial** em soluções que me
 
 ## 👨‍💻 Sobre mim
 
-Sou profissional de tecnologia com atuação em **análise de dados, desenvolvimento de dashboards, criação de indicadores e automação de processos**.
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou cursando Engenharia Civil.
 
-Atualmente, trabalho como **Analista de Dados em uma instituição financeira**, desenvolvendo soluções que transformam informações em decisões mais rápidas, eficientes e estratégicas.
+Atuo profissionalmente como Analista de Dados em uma instituição financeira, desenvolvendo dashboards, indicadores estratégicos, automações e soluções que transformam dados em decisões mais rápidas e eficientes.
 
-Também curso **Engenharia Civil** e participo do desenvolvimento e crescimento da **Reis & Reis Construtora**, conectando minha experiência em tecnologia à gestão de negócios e à construção civil.
+Minha formação em tecnologia, combinada aos conhecimentos adquiridos na Engenharia Civil, permite que eu desenvolva soluções conectando diferentes áreas, como:
 
-Paralelamente, desenvolvo produtos digitais, sistemas e projetos de inteligência artificial por meio do **Alfa Tauri Innovation Group**.
+Análise de dados
+Desenvolvimento de sistemas
+Inteligência artificial
+Automação de processos
+Gestão empresarial
+Construção civil
+Desenvolvimento de produtos digitais
+
+Também participo da gestão e do crescimento da Reis & Reis Construtora, contribuindo principalmente com tecnologia, indicadores, processos, gestão e digitalização da operação.
+
+Paralelamente, desenvolvo produtos digitais, sistemas e projetos de inteligência artificial por meio do Alfa Tauri Innovation Group.
+
+Tecnologia + Dados + Inteligência Artificial + Engenharia + Negócios.
 
 ```text
 Dados + Automação + Inteligência Artificial + Negócios
