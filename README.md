@@ -142,19 +142,41 @@ Participo da evolução tecnológica e estratégica da empresa, criando soluçõ
 
 <div align="center">
 
-<a href="https://github.com/REILOLx">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=REILOLx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub"/>
-</a>
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=REILOLx&theme=tokyonight"
+    alt="Estatísticas do GitHub"
+  />
 
-<a href="https://github.com/REILOLx">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REILOLx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
-</a>
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=REILOLx&theme=tokyonight"
+    alt="Linguagens mais utilizadas"
+  />
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=REILOLx&theme=tokyonight&hide_border=true" alt="Sequência de contribuições"/>
+  <img
+    width="70%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=REILOLx&theme=tokyonight&hide_border=true&locale=pt_BR"
+    alt="Sequência de contribuições"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img
+    width="98%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REILOLx&theme=tokyonight"
+    alt="Resumo de contribuições"
+  />
 
 </div>
 
