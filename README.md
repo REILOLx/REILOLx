@@ -54,7 +54,7 @@ Dados + Automação + Inteligência Artificial + Negócios
 
 ## 🚀 O que estou construindo
 
-### 💜 Alumia
+### 💜 LumeqIA
 
 Plataforma de gestão inteligente para negócios de beleza, criada para centralizar:
 
@@ -74,7 +74,7 @@ Grupo voltado à criação e ao desenvolvimento de negócios, produtos digitais 
 
 Entre os projetos do grupo estão:
 
-* **Alumia** — tecnologia para gestão e crescimento de negócios de beleza
+* **LumeqIA** — tecnologia para gestão e crescimento de negócios de beleza
 * **Reis & Reis Construtora** — construção civil e execução de obras
 * Sistemas internos de gestão
 * Automações empresariais
